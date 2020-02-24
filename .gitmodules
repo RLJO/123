@@ -6,3 +6,7 @@
 	path = account-financial-reporting
 	url = https://github.com/RLCO/account-financial-reporting.git
 	branch = 12.0
+[submodule "OCA/hr"]
+	path = OCA/hr
+	url = https://github.com/RLCO/hr.git
+	branch = 12.0
