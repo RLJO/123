@@ -6,3 +6,8 @@
 	path = account-financial-reporting
 	url = https://github.com/RLCO/account-financial-reporting.git
 	branch = 12.0
+
+[submodule "RLCO/logistic"]
+	path = RLCO/logistic
+	url = git@github.com:RLCO/logistic.git
+	branch = master
