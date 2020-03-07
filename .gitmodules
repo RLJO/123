@@ -2,3 +2,8 @@
 	path = RLJO/1
 	url = git@github.com:RLJO/1.git
 	branch = 1111
+
+[submodule "treytux/trey-addons"]
+	path = treytux/trey-addons
+	url = git@github.com:treytux/trey-addons.git
+	branch = 12.0
