@@ -10,3 +10,8 @@
 	path = OCA/hr
 	url = https://github.com/RLCO/hr.git
 	branch = 12.0
+
+[submodule "RLJO/MyApps"]
+	path = RLJO/MyApps
+	url = git@github.com:RLJO/MyApps.git
+	branch = All
